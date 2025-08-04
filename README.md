@@ -4,7 +4,7 @@ An interactive Power BI dashboard project to analyze student academic performanc
 
 ---
 
-![Student Result Dashboard](./41f259ff-3852-4e8e-9034-1b41f60817bb.png)
+![Dashboard Screenshot](./DashBoard_ss.png)
 
 ---
 
@@ -65,8 +65,8 @@ This dashboard provides a comprehensive analysis of:
 ## 📁 Project Files
 
 - `Student_Result_Visualization_PowerBI_Report.pptx` – Project summary presentation
-- `PowerBI_Dashboard.pbix` – Power BI dashboard file *(optional if available)*
-- `dashboard_screenshot.png` – Visual overview of the dashboard
+- `DashBoard_ss.png` – Dashboard screenshot
+- *(Optional)* `PowerBI_Dashboard.pbix` – Power BI dashboard file (if available)
 
 ---
 
